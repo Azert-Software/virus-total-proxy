@@ -4,6 +4,8 @@ This is a Virus Proxy that uses Virus Total to scan a file for the presence of v
 
 This was created for use with Hmail server but could be used elsewhere of course.
 
+The proxy is written in GoLang and an executable is located in the dist folder allowing you to download an run with a minimum of effort.
+
 ### Use ###
 
 This takes a single parameter which is the location of the file to be checked.

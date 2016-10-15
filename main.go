@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"bitbucket.org/azert/virus-proxy/config"
+	"github.com/azert-software/virus-proxy/config"
 )
 
 func main() {
